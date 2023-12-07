@@ -1,0 +1,24 @@
+{
+    "reels": [
+        {
+            "creator": "Creator 1",
+            "description": "Description Product",
+            "mediaUrl": "http://techslides.com/demos/sample-videos/small.mp4"
+        },
+        {
+            "creator": "Creator 2",
+            "description": "Description Product",
+            "mediaUrl": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
+        },
+        {
+            "creator": "Creator 3",
+            "description": "Description Product",
+            "mediaUrl": "http://techslides.com/demos/sample-videos/small.mp4"
+        },
+        {
+            "creator": "Creator 4",
+            "description": "Description Product",
+            "mediaUrl": "https://samplelib.com/lib/preview/mp4/sample-10s.mp4"
+        }
+    ]
+}
